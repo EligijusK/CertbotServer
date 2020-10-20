@@ -1,4 +1,4 @@
-# CertbotServer
+# Certbot in hostinger Server
 
 https://community.letsencrypt.org/t/certbot-not-found-when-installed-with-snap-and-using-fish/132312
 
